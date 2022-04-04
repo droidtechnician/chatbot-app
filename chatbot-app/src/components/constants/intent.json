@@ -1,0 +1,257 @@
+[
+    {
+        "card_arrival": {
+            "when": "Your card will arrive in the last week of March",
+            "where": "Your card is currently with Indian POST and you can track your reference no #535456"
+        }
+    },
+    {
+        "card_linking": {}
+    },
+    {
+        "exchange_rate": {
+            
+        }
+    },
+    {
+        "card_payment_wrong_exchange_rate": {}
+    },
+    {
+        "extra_charge_on_statement": {}
+    },
+    {
+        "pending_cash_withdrawal": {}
+    },
+    {
+        "fiat_currency_support": {}
+    },
+    {
+        "card_delivery_estimate": {}
+    },
+    {
+        "automatic_top_up": {}
+    },
+    {
+        "card_not_working": {}
+    },
+    {
+        "exchange_via_app": {}
+    },
+    {
+        "lost_or_stolen_card": {}
+    },
+    {
+        "age_limit": {}
+    },
+    {
+        "pin_blocked": [
+            "Surely let me share reset the pin.",
+            "Your new pin 0101. This is only one time pin. Please visit an ATM and reset using this new pin"
+        ]
+    },
+    {
+        "contactless_not_working": {}
+    },
+    {
+        "top_up_by_bank_transfer_charge": {}
+    },
+    {
+        "pending_top_up": {}
+    },
+    {
+        "cancel_transfer": {}
+    },
+    {
+        "top_up_limits": {}
+    },
+    {
+        "wrong_amount_of_cash_received": {}
+    },
+    {
+        "card_payment_fee_charged": {
+
+        }
+    },
+    {
+        "transfer_not_received_by_recipient": [
+            "Let me raise a request with backend team to sort his matter out. We will reach out to you earliest possible with a resolution"
+        ]
+    },
+    {
+        "supported_cards_and_currencies": {}
+    },
+    {
+        "getting_virtual_card": {}
+    },
+    {
+        "card_acceptance": {}
+    },
+    {
+        "top_up_reverted": {}
+    },
+    {
+        "balance_not_updated_after_cheque_or_cash_deposit": {}
+    },
+    {
+        "card_payment_not_recognised": {}
+    },
+    {
+        "edit_personal_details": {}
+    },
+    {
+        "why_verify_identity": [
+            "We need to authenticate you to understand you better."
+        ]
+    },
+    {
+        "unable_to_verify_identity": {}
+    },
+    {
+        "get_physical_card": {}
+    },
+    {
+        "visa_or_mastercard": [
+            "You have a visa card ending with XX78"
+        ]
+    },
+    {
+        "topping_up_by_card": {}
+    },
+    {
+        "disposable_card_limits": {}
+    },
+    {
+        "compromised_card": {}
+    },
+    {
+        "atm_support": [
+            "ATM support no is 1800-XXXX-XXXX"
+        ]
+    },
+    {
+        "direct_debit_payment_not_recognised": {}
+    },
+    {
+        "passcode_forgotten": [
+            "Ohh let me send you a temprary password on your email test@gmail.com"
+        ]
+    },
+    {
+        "declined_cash_withdrawal": {}
+    },
+    {
+        "pending_card_payment": {}
+    },
+    {
+        "lost_or_stolen_phone": {}
+    },
+    {
+        "request_refund": {}
+    },
+    {
+        "declined_transfer": {}
+    },
+    {
+        "Refund_not_showing_up": {}
+    },
+    {
+        "declined_card_payment": {}
+    },
+    {
+        "pending_transfer": {}
+    },
+    {
+        "terminate_account": [
+            "We were sad to see you leave. You can do this online through the app > account > close account or you can visit a nearby branch"
+        ]
+    },
+    {
+        "card_swallowed": {}
+    },
+    {
+        "transaction_charged_twice": {}
+    },
+    {
+        "verify_source_of_funds": {}
+    },
+    {
+        "transfer_timing": {}
+    },
+    {
+        "reverted_card_payment?": {}
+    },
+    {
+        "change_pin": {}
+    },
+    {
+        "beneficiary_not_allowed": {}
+    },
+    {
+        "transfer_fee_charged": {}
+    },
+    {
+        "receiving_money": {}
+    },
+    {
+        "failed_transfer": {}
+    },
+    {
+        "transfer_into_account": {}
+    },
+    {
+        "verify_top_up": {}
+    },
+    {
+        "getting_spare_card": {}
+    },
+    {
+        "top_up_by_cash_or_cheque": {}
+    },
+    {
+        "order_physical_card": {}
+    },
+    {
+        "virtual_card_not_working": {}
+    },
+    {
+        "wrong_exchange_rate_for_cash_withdrawal": {}
+    },
+    {
+        "get_disposable_virtual_card": {}
+    },
+    {
+        "top_up_failed": {}
+    },
+    {
+        "balance_not_updated_after_bank_transfer": {}
+    },
+    {
+        "cash_withdrawal_not_recognised": {}
+    },
+    {
+        "exchange_charge": {}
+    },
+    {
+        "top_up_by_card_charge": {}
+    },
+    {
+        "activate_my_card": {}
+    },
+    {
+        "cash_withdrawal_charge": {}
+    },
+    {
+        "card_about_to_expire": {}
+    },
+    {
+        "apple_pay_or_google_pay": {
+            "transfer": "Sure let me open wallet app for you"
+        }
+    },
+    {
+        "verify_my_identity": {}
+    },
+    {
+        "country_support": {}
+    }
+]
